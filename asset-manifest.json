@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mycolor-box-maker/static/css/main.073c9b0a.css",
+    "main.js": "/mycolor-box-maker/static/js/main.9f133efe.js",
+    "static/js/787.ca46a443.chunk.js": "/mycolor-box-maker/static/js/787.ca46a443.chunk.js",
+    "index.html": "/mycolor-box-maker/index.html",
+    "main.073c9b0a.css.map": "/mycolor-box-maker/static/css/main.073c9b0a.css.map",
+    "main.9f133efe.js.map": "/mycolor-box-maker/static/js/main.9f133efe.js.map",
+    "787.ca46a443.chunk.js.map": "/mycolor-box-maker/static/js/787.ca46a443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f133efe.js"
+  ]
+}
